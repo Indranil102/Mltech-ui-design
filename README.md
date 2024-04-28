@@ -31,12 +31,6 @@ cd mltech-ui-ux-webdesign
 ![Screenshot 2024-04-28 105805](https://github.com/Indranil102/Mltech-ui-design/assets/115712973/0fefa3ad-4895-4eab-a91c-081cf4f1b8bb)
 
 ![Screenshot 2024-04-28 105837](https://github.com/Indranil102/Mltech-ui-design/assets/115712973/7fdcb507-9862-491e-b44f-dc864358d996)
-![Screenshot 2024-04-28 105722](https://github.com/Indranil102/Mltech-ui-design/assets/115712973/84e35e87-fdc0-4b4a-b16b-8ddba56613f8)
-
-
-
-
-
 
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute to the development of MLtech's homepage, please follow these steps:
