@@ -24,11 +24,11 @@ cd mltech-ui-ux-webdesign
 
 # preview page
 
-
-## C![Screenshot 2024-04-28 104743](https://github.com/Indranil102/Mltech-ui-design/assets/115712973/743465e8-273e-48b1-814d-c499f34c2b4b)
+![Screenshot 2024-04-28 104743](https://github.com/Indranil102/Mltech-ui-design/assets/115712973/743465e8-273e-48b1-814d-c499f34c2b4b)
 ![Screenshot 2024-04-28 104759](https://github.com/Indranil102/Mltech-ui-design/assets/115712973/1b91e9e1-742f-4da1-a1e8-317140ee1ef1)
 
-ontributing
+
+## Contributing
 We welcome contributions from the community! If you'd like to contribute to the development of MLtech's homepage, please follow these steps:
 1. Fork this repository.
 2. Create a new branch for your feature (`git checkout -b feature/new-feature`).
